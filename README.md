@@ -1,3 +1,43 @@
+# Kore - Pregnancy Management Web Application
+
+## 🔍 Project Overview
+A web application to support Cambodian pregnant women with:
+- Health education
+- AI chatbot assistance
+- Community sharing
+
+## 🎯 Main Features
+- AI chatbot in Khmer
+- Educational blogs and videos
+- Community forum
+- User profile management
+- Admin dashboard
+
+## 🛠 Technologies Used
+- **Frontend:** React.js, Tailwind CSS
+- **Backend:** Node.js, Express.js
+- **Database:** MongoDB
+- **AI/ML:** Python, FastAPI, XLM-RoBERTa
+- **Tools:** GitHub, Postman, Figma, Jupyter
+
+## 👨‍💻 Team
+- Mean Piseth
+- Morm Lyda
+- Hour Livhoung
+- Chim Vine
+- Chort Sereivathana
+- Channroy Channdararith
+
+## 📅 Timeline
+- Jan–Apr 2025 (3 months)
+
+## 🧠 Goal
+To improve maternal care access and education in Cambodia through digital solutions.
+
+## Demo 
+If you want to know more about this project, you can click on Demo Folder for know more about it 
+
+
 
 server : cd backend/server/
          node server.js
